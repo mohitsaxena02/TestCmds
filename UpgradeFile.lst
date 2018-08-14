@@ -1,0 +1,10 @@
+#
+
+#These scripts will be always at the end of the file
+WFANH_IA_VERSION.sql
+
+INS_HACRE_ETL_PRODUCT.sql
+INS_HCARE_ETL_PRODUCT_CTL.sql
+INS_HACRE_ETL_CONFIG_FEATURE_PRODUCT.sql
+INS_HCARE_ETL_FEATURE.sql
+# Ends here
